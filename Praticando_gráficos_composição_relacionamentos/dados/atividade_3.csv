@@ -1,0 +1,5 @@
+Categoria,Tipo,Valor
+Receita Total,absolute,800000
+Custos com Fornecedores,relative,-300000
+Despesas Operacionais,relative,-200000
+Lucro Final,total,300000
