@@ -1,0 +1,26 @@
+[
+    {
+        "id_vendedor": 101,
+        "id_cliente": 1001,
+        "produto": "Notebook",
+        "quantidade": 1,
+        "valor_unitario": 3500.00,
+        "valor_total": 3500.00
+    },
+    {
+        "id_vendedor": 102,
+        "id_cliente": 1002,
+        "produto": "Smartphone",
+        "quantidade": 2,
+        "valor_unitario": 1200.00,
+        "valor_total": 2400.00
+    },
+    {
+        "id_vendedor": 103,
+        "id_cliente": 1003,
+        "produto": "Monitor",
+        "quantidade": 3,
+        "valor_unitario": 800.00,
+        "valor_total": 2400.00
+    }
+]
