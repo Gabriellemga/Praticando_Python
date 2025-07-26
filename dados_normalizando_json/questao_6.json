@@ -1,0 +1,42 @@
+[
+    {
+        "lista_lojas": [
+            {
+                "id_loja": 5,
+                "nome_loja": "Loja Épsilon",
+                "cidade": "Salvador",
+                "estado": "BA",
+                "categoria": "Livros",
+                "vendas_mensais": 300,
+                "faturamento_mensal": 75000.0
+            },
+            {
+                "id_loja": 6,
+                "nome_loja": "Loja Zeta",
+                "cidade": "Fortaleza",
+                "estado": "CE",
+                "categoria": "Eletrônicos",
+                "vendas_mensais": 100,
+                "faturamento_mensal": 50000.0
+            },
+            {
+                "id_loja": 7,
+                "nome_loja": "Loja Eta",
+                "cidade": "Porto Alegre",
+                "estado": "RS",
+                "categoria": "Roupas",
+                "vendas_mensais": 250,
+                "faturamento_mensal": 87500.0
+            },
+            {
+                "id_loja": 8,
+                "nome_loja": "Loja Theta",
+                "cidade": "Manaus",
+                "estado": "AM",
+                "categoria": "Calçados",
+                "vendas_mensais": 70,
+                "faturamento_mensal": 21000.0
+            }
+        ]
+    }
+]

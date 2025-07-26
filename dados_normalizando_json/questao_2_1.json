@@ -1,0 +1,67 @@
+[
+    {
+        "id_pedido": 10,
+        "id_cliente": 110,
+        "nome_cliente": "João Vieira",
+        "id_produto": 210,
+        "nome_produto": "Smartphone",
+        "categorias": ["Eletrônicos", "Comunicação", "Tecnologia"],
+        "quantidade": 1,
+        "preco_unitario": 2500.0,
+        "preco_total": 2500.0,
+        "data_pedido": "2025-01-10",
+        "status": "Pendente"
+    },
+    {
+        "id_pedido": 11,
+        "id_cliente": 111,
+        "nome_cliente": "Karen Martins",
+        "id_produto": 211,
+        "nome_produto": "Mouse Gamer",
+        "categorias": ["Eletrônicos", "Acessórios", "Games"],
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "preco_total": 150.0,
+        "data_pedido": "2025-01-11",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 12,
+        "id_cliente": 112,
+        "nome_cliente": "Lucas Mendes",
+        "id_produto": 212,
+        "nome_produto": "Bicicleta",
+        "categorias": ["Esportes", "Lazer", "Transporte"],
+        "quantidade": 1,
+        "preco_unitario": 1200.0,
+        "preco_total": 1200.0,
+        "data_pedido": "2025-01-12",
+        "status": "Cancelado"
+    },
+    {
+        "id_pedido": 13,
+        "id_cliente": 113,
+        "nome_cliente": "Mariana Lopes",
+        "id_produto": 213,
+        "nome_produto": "Óculos de Sol",
+        "categorias": ["Acessórios", "Moda", "Proteção"],
+        "quantidade": 1,
+        "preco_unitario": 300.0,
+        "preco_total": 300.0,
+        "data_pedido": "2025-01-13",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 14,
+        "id_cliente": 114,
+        "nome_cliente": "Natan Santos",
+        "id_produto": 214,
+        "nome_produto": "Tablet",
+        "categorias": ["Eletrônicos", "Tecnologia", "Educação"],
+        "quantidade": 1,
+        "preco_unitario": 1500.0,
+        "preco_total": 1500.0,
+        "data_pedido": "2025-01-14",
+        "status": "Pendente"
+    }
+]

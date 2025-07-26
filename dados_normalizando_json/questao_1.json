@@ -1,0 +1,67 @@
+[
+    {
+        "id_pedido": 1,
+        "id_cliente": 101,
+        "nome_cliente": "Alice Silva",
+        "id_produto": 201,
+        "nome_produto": "Camiseta Básica",
+        "categoria": "Roupas",
+        "quantidade": 2,
+        "preco_unitario": 50.0,
+        "preco_total": 100.0,
+        "data_pedido": "2025-01-01",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 2,
+        "id_cliente": 102,
+        "nome_cliente": "Bruno Souza",
+        "id_produto": 202,
+        "nome_produto": "Tênis Esportivo",
+        "categoria": "Calçados",
+        "quantidade": 1,
+        "preco_unitario": 200.0,
+        "preco_total": 200.0,
+        "data_pedido": "2025-01-02",
+        "status": "Pendente"
+    },
+    {
+        "id_pedido": 3,
+        "id_cliente": 103,
+        "nome_cliente": "Carla Pereira",
+        "id_produto": 203,
+        "nome_produto": "Relógio Digital",
+        "categoria": "Acessórios",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "preco_total": 150.0,
+        "data_pedido": "2025-01-03",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 4,
+        "id_cliente": 104,
+        "nome_cliente": "Daniel Oliveira",
+        "id_produto": 204,
+        "nome_produto": "Calça Jeans",
+        "categoria": "Roupas",
+        "quantidade": 2,
+        "preco_unitario": 120.0,
+        "preco_total": 240.0,
+        "data_pedido": "2025-01-04",
+        "status": "Cancelado"
+    },
+    {
+        "id_pedido": 15,
+        "id_cliente": 115,
+        "nome_cliente": "Olivia Rocha",
+        "id_produto": 215,
+        "nome_produto": "Tênis Casual",
+        "categoria": "Calçados",
+        "quantidade": 1,
+        "preco_unitario": 220.0,
+        "preco_total": 220.0,
+        "data_pedido": "2025-01-15",
+        "status": "Entregue"
+    }
+]

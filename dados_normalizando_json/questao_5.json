@@ -1,0 +1,87 @@
+[
+    {
+        "id_pedido": 26,
+        "cliente": {
+            "id_cliente": 126,
+            "nome_cliente": "Zeca Costa"
+        },
+        "compra": {
+            "id_produto": 226,
+            "nome_produto": "Cadeira de Escritório",
+            "categoria": "Móveis",
+            "quantidade": 1,
+            "preco_unitario": 550.0,
+            "preco_total": 550.0
+        },
+        "data_pedido": "2025-01-26",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 27,
+        "cliente": {
+            "id_cliente": 127,
+            "nome_cliente": "Amanda Melo"
+        },
+        "compra": {
+            "id_produto": 227,
+            "nome_produto": "Colar de Prata",
+            "categoria": "Acessórios",
+            "quantidade": 1,
+            "preco_unitario": 120.0,
+            "preco_total": 120.0
+        },
+        "data_pedido": "2025-01-27",
+        "status": "Pendente"
+    },
+    {
+        "id_pedido": 28,
+        "cliente": {
+            "id_cliente": 128,
+            "nome_cliente": "Bruna Santos"
+        },
+        "compra": {
+            "id_produto": 228,
+            "nome_produto": "Fogão 4 Bocas",
+            "categoria": "Eletrodomésticos",
+            "quantidade": 1,
+            "preco_unitario": 1200.0,
+            "preco_total": 1200.0
+        },
+        "data_pedido": "2025-01-28",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 29,
+        "cliente": {
+            "id_cliente": 129,
+            "nome_cliente": "Carlos Silva"
+        },
+        "compra": {
+            "id_produto": 229,
+            "nome_produto": "Geladeira",
+            "categoria": "Eletrodomésticos",
+            "quantidade": 1,
+            "preco_unitario": 3500.0,
+            "preco_total": 3500.0
+        },
+        "data_pedido": "2025-01-29",
+        "status": "Cancelado"
+    },
+    {
+        "id_pedido": 30,
+        "cliente": {
+            "id_cliente": 130,
+            "nome_cliente": "Débora Lima"
+        },
+        "compra": {
+            "id_produto": 230,
+            "nome_produto": "Teclado Mecânico",
+            "categoria": "Eletrônicos",
+            "quantidade": 1,
+            "preco_unitario": 300.0,
+            "preco_total": 300.0
+        },
+        "data_pedido": "2025-01-30",
+        "status": "Entregue"
+    }
+]

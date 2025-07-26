@@ -1,0 +1,42 @@
+{
+    "lojas_sudeste": [
+        {
+            "id_loja": 1,
+            "nome_loja": "Loja Alpha",
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "categoria": "Eletrônicos",
+            "vendas_mensais": 150,
+            "faturamento_mensal": 45000.0
+        },
+        {
+            "id_loja": 2,
+            "nome_loja": "Loja Beta",
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "categoria": "Roupas",
+            "vendas_mensais": 200,
+            "faturamento_mensal": 60000.0
+        }
+    ],
+    "lojas_sul": [
+        {
+            "id_loja": 3,
+            "nome_loja": "Loja Gamma",
+            "cidade": "Belo Horizonte",
+            "estado": "MG",
+            "categoria": "Calçados",
+            "vendas_mensais": 120,
+            "faturamento_mensal": 36000.0
+        },
+        {
+            "id_loja": 4,
+            "nome_loja": "Loja Delta",
+            "cidade": "Curitiba",
+            "estado": "PR",
+            "categoria": "Acessórios",
+            "vendas_mensais": 80,
+            "faturamento_mensal": 24000.0
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+[
+    {
+        "id_pedido": 21,
+        "cliente": {
+            "id_cliente": 121,
+            "nome_cliente": "Ursula Castro"
+        },
+        "detalhes_compra": {
+            "produto": {
+                "id_produto": 221,
+                "nome_produto": "Sandália Feminina",
+                "categoria": "Calçados"
+            },
+            "quantidade": 1,
+            "preco_unitario": 90.0,
+            "preco_total": 90.0
+        },
+        "data_pedido": "2025-01-21",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 22,
+        "cliente": {
+            "id_cliente": 122,
+            "nome_cliente": "Victor Andrade"
+        },
+        "detalhes_compra": {
+            "produto": {
+                "id_produto": 222,
+                "nome_produto": "Chuteira",
+                "categoria": "Esportes"
+            },
+            "quantidade": 1,
+            "preco_unitario": 230.0,
+            "preco_total": 230.0
+        },
+        "data_pedido": "2025-01-22",
+        "status": "Pendente"
+    },
+    {
+        "id_pedido": 23,
+        "cliente": {
+            "id_cliente": 123,
+            "nome_cliente": "Wagner Neves"
+        },
+        "detalhes_compra": {
+            "produto": {
+                "id_produto": 223,
+                "nome_produto": "Carregador Portátil",
+                "categoria": "Eletrônicos"
+            },
+            "quantidade": 1,
+            "preco_unitario": 100.0,
+            "preco_total": 100.0
+        },
+        "data_pedido": "2025-01-23",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 24,
+        "cliente": {
+            "id_cliente": 124,
+            "nome_cliente": "Xavier Almeida"
+        },
+        "detalhes_compra": {
+            "produto": {
+                "id_produto": 224,
+                "nome_produto": "Bola de Futebol",
+                "categoria": "Esportes"
+            },
+            "quantidade": 1,
+            "preco_unitario": 120.0,
+            "preco_total": 120.0
+        },
+        "data_pedido": "2025-01-24",
+        "status": "Entregue"
+    },
+    {
+        "id_pedido": 25,
+        "cliente": {
+            "id_cliente": 125,
+            "nome_cliente": "Yasmin Dias"
+        },
+        "detalhes_compra": {
+            "produto": {
+                "id_produto": 225,
+                "nome_produto": "Maquiagem Completa",
+                "categoria": "Beleza"
+            },
+            "quantidade": 1,
+            "preco_unitario": 250.0,
+            "preco_total": 250.0
+        },
+        "data_pedido": "2025-01-25",
+        "status": "Cancelado"
+    }
+]

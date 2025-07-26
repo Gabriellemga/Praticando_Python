@@ -1,0 +1,72 @@
+[
+    {
+        "id_pedido": 5,
+        "id_cliente": 105,
+        "nome_cliente": "Eduarda Costa",
+        "id_produto": 205,
+        "nome_produto": "Mochila Escolar",
+        "categoria": "Acessórios",
+        "quantidade": 1,
+        "preco_unitario": 180.0,
+        "preco_total": 180.0,
+        "data_pedido": "2025-01-05",
+        "status": "Entregue",
+        "endereco": "{Rua das Flores, 120, Centro, São Paulo, SP, 01001-000}"
+    },
+    {
+        "id_pedido": 6,
+        "id_cliente": 106,
+        "nome_cliente": "Fernando Lima",
+        "id_produto": 206,
+        "nome_produto": "Notebook",
+        "categoria": "Eletrônicos",
+        "quantidade": 1,
+        "preco_unitario": 3000.0,
+        "preco_total": 3000.0,
+        "data_pedido": "2025-01-06",
+        "status": "Pendente",
+        "endereco": "{Avenida Paulista, 1578, Bela Vista, São Paulo, SP, 01310-200}"
+    },
+    {
+        "id_pedido": 7,
+        "id_cliente": 107,
+        "nome_cliente": "Gabriela Souza",
+        "id_produto": 207,
+        "nome_produto": "Fone de Ouvido",
+        "categoria": "Eletrônicos",
+        "quantidade": 1,
+        "preco_unitario": 250.0,
+        "preco_total": 250.0,
+        "data_pedido": "2025-01-07",
+        "status": "Entregue",
+        "endereco": "{Rua do Comércio, 45, Centro, Rio de Janeiro, RJ, 20010-000}"
+    },
+    {
+        "id_pedido": 8,
+        "id_cliente": 108,
+        "nome_cliente": "Hugo Almeida",
+        "id_produto": 208,
+        "nome_produto": "Jaqueta de Couro",
+        "categoria": "Roupas",
+        "quantidade": 1,
+        "preco_unitario": 350.0,
+        "preco_total": 350.0,
+        "data_pedido": "2025-01-08",
+        "status": "Entregue",
+        "endereco": "{Rua das Palmeiras, 234, Botafogo, Rio de Janeiro, RJ, 22270-080}"
+    },
+    {
+        "id_pedido": 9,
+        "id_cliente": 109,
+        "nome_cliente": "Isabela Nunes",
+        "id_produto": 209,
+        "nome_produto": "Caderno Universitário",
+        "categoria": "Papelaria",
+        "quantidade": 5,
+        "preco_unitario": 20.0,
+        "preco_total": 100.0,
+        "data_pedido": "2025-01-09",
+        "status": "Entregue",
+        "endereco": "{Rua da Paz, 789, Centro, Curitiba, PR, 80010-110}"
+    }
+]

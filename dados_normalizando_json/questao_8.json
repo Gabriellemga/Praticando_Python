@@ -1,0 +1,44 @@
+{
+    "lojas": {
+        "lojas_nordeste": [
+            {
+                "id_loja": 9,
+                "nome_loja": "Loja Iota",
+                "cidade": "Recife",
+                "estado": "PE",
+                "categoria": "Acessórios",
+                "vendas_mensais": 95,
+                "faturamento_mensal": 28500.0
+            },
+            {
+                "id_loja": 10,
+                "nome_loja": "Loja Kappa",
+                "cidade": "Fortaleza",
+                "estado": "CE",
+                "categoria": "Livros",
+                "vendas_mensais": 180,
+                "faturamento_mensal": 54000.0
+            }
+        ],
+        "lojas_norte": [
+            {
+                "id_loja": 11,
+                "nome_loja": "Loja Lambda",
+                "cidade": "Manaus",
+                "estado": "AM",
+                "categoria": "Eletrônicos",
+                "vendas_mensais": 220,
+                "faturamento_mensal": 110000.0
+            },
+            {
+                "id_loja": 12,
+                "nome_loja": "Loja Mu",
+                "cidade": "Belém",
+                "estado": "PA",
+                "categoria": "Roupas",
+                "vendas_mensais": 160,
+                "faturamento_mensal": 48000.0
+            }
+        ]
+    }
+}

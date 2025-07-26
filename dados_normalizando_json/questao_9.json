@@ -1,0 +1,30 @@
+[
+    {
+        "id_loja": 13,
+        "nome_loja": "Loja Nu",
+        "vendas": [
+            {"cidade": "Natal", "estado": "RN", "categoria": "Calçados", "vendas_mensais": 140, "faturamento_mensal": 42000.0}
+        ]
+    },
+    {
+        "id_loja": 14,
+        "nome_loja": "Loja Xi",
+        "vendas": [
+            {"cidade": "Goiânia", "estado": "GO", "categoria": "Acessórios", "vendas_mensais": 75, "faturamento_mensal": 22500.0}
+        ]
+    },
+    {
+        "id_loja": 15,
+        "nome_loja": "Loja Omicron",
+        "vendas": [
+            {"cidade": "São Luís", "estado": "MA", "categoria": "Livros", "vendas_mensais": 210, "faturamento_mensal": 63000.0}
+        ]
+    },
+    {
+        "id_loja": 16,
+        "nome_loja": "Loja Pi",
+        "vendas": [
+            {"cidade": "Maceió", "estado": "AL", "categoria": "Eletrônicos", "vendas_mensais": 50, "faturamento_mensal": 25000.0}
+        ]
+    }
+]
